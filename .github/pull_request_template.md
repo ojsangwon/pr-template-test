@@ -2,10 +2,10 @@
 
 > PR 올리기 전 아래 내용을 확인해 주세요
 
-- merge할 branch가 dev branch인지 확인해주세요.
-- reviewer의 comment는 reviewer가 해결되었는지 확인한 후 직접 resolve합니다.
-- merge는 reviewer가 approve와 동시에 합니다.
-- conflict은 reviewer가 해결하고, 확인이 필요한 경우에 assignee와 함께 해결합니다.
+1. merge할 branch가 dev branch인지 확인해주세요.
+2. reviewer의 comment는 reviewer가 해결되었는지 확인한 후 직접 resolve합니다.
+3. merge는 reviewer가 approve와 동시에 합니다.
+4. conflict은 assignee가 해결하고, 확인이 필요한 경우에 함께 해결합니다.
 
 <br>
 
