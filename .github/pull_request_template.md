@@ -2,10 +2,10 @@
 
 > PR 올리기 전 아래 내용을 확인해 주세요
 
-- merge할 브랜치의 위치를 확인해주세요. (main X, dev O)
-- Reviewer의 review(comment)는 반영되었음을 확인한 후 직접 resolve합니다.
-- Reviewer가 Conflict를 해결할 수 있는 상황에선 직접 해결하며 Reviewee의 확인이 필요한 경우 함께 해결합니다.
-- Approve된 PR은 리뷰어가 merge를 하고, 수정 요청이 온 경우 수정 후 다시 push를 합니다.
+- merge할 branch가 dev branch인지 확인해주세요.
+- reviewer의 comment는 reviewer가 해결되었는지 확인한 후 직접 resolve합니다.
+- merge는 reviewer가 approve와 동시에 합니다.
+- conflict은 reviewer가 해결하고, 확인이 필요한 경우에 assignee와 함께 해결합니다.
 
 <br>
 
@@ -33,6 +33,12 @@
 
 <br>
 
-## Screenshots (optional)
+## Screenshots
 
 > 참고할 img, gif를 넣어주세요.
+
+<br>
+
+## References
+
+> 참고할 레퍼런스를 작성해주세요.
